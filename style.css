@@ -49,17 +49,6 @@ a {
 .ac-w-t{
   margin: 0px 20% 0px 20%;
 }
-#bg-imgs{
-  background: url(images/cover/cover-1.png);
-  background-size: cover;
-  Height : 100vh;
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  border-radius: 7px;
-}
-
 .margin-b{
   margin-bottom: 120px;
 }
